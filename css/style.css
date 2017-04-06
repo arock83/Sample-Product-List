@@ -1,0 +1,74 @@
+/* Layout Styles */
+header,
+footer {
+	clear:both;
+}
+
+#mainContent {
+	padding: 2%;
+}
+.titleCard {
+	border: 1px dotted lightgrey;
+	border-radius: 10px;
+}
+.productName {
+	text-align: center;
+}
+.productImage {
+	width: 80%;
+	height: 225px;
+	margin:5px auto 15px;
+	display:block;
+	border-radius: 10px;
+}
+.description {
+	text-align: center;
+}
+.product {
+	margin: 1%;
+	height: 600px;
+	width: 30%;
+	border: 1px solid lightblue;
+	border-radius: 10px;
+	float: left;
+}
+.available,
+p.available {
+	display:block;
+	width: 100%;
+	background-color: darkgrey;
+	color: yellow;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	
+}
+
+/* Color Styles */
+
+.available {
+	
+	background-color: darkgrey;
+	color: yellow;
+}
+
+
+/* Typography Styles */
+.productInfo {
+	font-size: .8em;
+}
+
+.specifications {
+	
+	text-decoration: underline;
+
+}
+.pricing {
+	text-decoration: underline;
+}
+
+p {
+	margin: 3px;
+}
+h3 {
+	margin: 10px;
+}
