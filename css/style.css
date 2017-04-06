@@ -72,3 +72,20 @@ p {
 h3 {
 	margin: 10px;
 }
+#main-header {
+	background-color: lightblue;
+	width: 100%;
+	text-align: center;
+	border-radius: 5px;
+	padding: 15px;
+}
+
+#main-footer {
+	background-color: darkgrey;
+	width: 100%;
+	text-align: center;
+	border-radius: 5px;
+	padding: 10px;
+	color: white;
+
+}
